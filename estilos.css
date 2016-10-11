@@ -1,3 +1,10 @@
+figure{margin:5px; padding:5px;}
+h3.in, h3.al, .in, .al {
+
+display: none;
+
+}
+
 
 footer.bk-footer {
     background-color: initial;
