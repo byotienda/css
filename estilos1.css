@@ -75,7 +75,7 @@ font-size:21px}
     vertical-align: center;
     color: orange;
 }
-@media only screen and (max-width: 769px)
+@media only screen and (max-width: 769px){
 .companyheader {
     width: 100%;
 }
