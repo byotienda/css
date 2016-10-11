@@ -10,3 +10,73 @@ footer.bk-footer .responsivecolumns .columns-three-right {
     width: 100%;
     text-align: center;}
 
+footer.bk-footer .responsivecolumns .columns-three-right {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+footer.bk-footer {
+    margin: 0;
+    padding: 0;
+}
+footer.bk-footer .footer2 {
+    background-color: #228c12;
+    padding: 1em 0 0.4em;
+    margin-top: 0;
+}
+ .widget.profile span, .widget.profile a {
+    color: white;
+}
+.widget.feature .feature-bgimg .content .spare {
+    display: none;
+}
+.widget.feature .feature-bgimg {
+    max-height: 400px;
+    display: block;
+}
+.responsivecolumns.columns-three-33-34-33 {
+    display: none;
+}
+header.bk-header {
+    padding: 2px 0;
+    /* background-color: #fff; */
+}
+h1{
+    text-align:center;
+}
+h1 span{}
+.companyheader {
+    width: 40%;
+}
+.y {
+    font-size: 27px;
+    color: #c26622;
+}
+span {
+    color: #c26628;
+}
+span.t {
+    color: #c26628;
+    color: orange;
+}
+span.btnText {}
+.widget.companyname a {
+color: #c26622;
+font-size:21px}
+/**/
+/* MENU */
+/**/
+ .nav li { display: block;   float: left; padding: 10px;}
+/**/
+/* BOTONES */
+/**/
+.widget.button span {
+    vertical-align: center;
+    color: orange;
+}
+@media only screen and (max-width: 769px)
+.companyheader {
+    width: 75%;
+}
+
