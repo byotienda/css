@@ -1,0 +1,12 @@
+
+footer.bk-footer {
+    background-color: initial;
+    border-top: 1px solid #eff2f6;
+   padding:0;
+    margin-top:0;
+    color: #228c12;
+}
+footer.bk-footer .responsivecolumns .columns-three-right {
+    width: 100%;
+    text-align: center;}
+
